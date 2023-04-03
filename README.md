@@ -3,19 +3,19 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkabirath&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkabirath" /> </p>
 
-<p align="left"> <a href="https://twitter.com/madhavkabirath5" target="blank"><img src="https://img.shields.io/twitter/follow/madhavkabirath5?logo=twitter&style=for-the-badge" alt="madhavkabirath5" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **madhavbengoli43@gmail.com**
+- 📫 How to reach me **gulshankiul1810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/madhavkabirath5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhavkabirath5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/madhav-kabirath-873726205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-kabirath" height="30" width="40" /></a>
-<a href="https://instagram.com/mk_bengoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk_bengoli" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/madhavkabirath5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhavkabirath5" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/gulshan-kumar-64244220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-kabirath" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/mk_bengoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mk_bengoli" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
