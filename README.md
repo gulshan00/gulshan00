@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm GULSHAN KUMAR </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 
 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and NextJs**
 
 - 📫 How to reach me **gulshankiul1810@gmail.com**
 
